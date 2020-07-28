@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+#clickdiv:hover{
+background-color:#ff88005c;
+
+
+}
